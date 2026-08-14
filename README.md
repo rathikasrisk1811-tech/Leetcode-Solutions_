@@ -34,4 +34,10 @@
 - Approach: Separate the first and second halves and place them alternately
 - Time Complexity: O(n)
 - Space Complexity: O(n)
-- 
+
+  ### 6. Build Array from Permutation
+- Difficulty: Easy
+- Language: Java
+- Approach: Use nums[i] as an index to get nums[nums[i]]
+- Time Complexity: O(n)
+- Space Complexity: O(n)
