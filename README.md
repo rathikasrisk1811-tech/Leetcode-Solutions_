@@ -27,3 +27,11 @@
 - Approach: Maintain a running sum and store it in a new array
 - Time Complexity: O(n)
 - Space Complexity: O(n)
+
+### 5. Shuffle the Array
+- Difficulty: Easy
+- Language: Java
+- Approach: Separate the first and second halves and place them alternately
+- Time Complexity: O(n)
+- Space Complexity: O(n)
+- 
