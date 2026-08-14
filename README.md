@@ -41,3 +41,10 @@
 - Approach: Use nums[i] as an index to get nums[nums[i]]
 - Time Complexity: O(n)
 - Space Complexity: O(n)
+
+### 7. Single Number
+- Difficulty: Easy
+- Language: Java
+- Approach: XOR
+- Time Complexity: O(n)
+- Space Complexity: O(1)
